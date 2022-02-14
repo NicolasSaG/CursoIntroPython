@@ -16,7 +16,7 @@ Crea un entorno virtual mediante `venv`
 
   `python -m venv env`
   Ahora tienes un directorio (folder) `env` creado en tu terminal.
-  ![image](images/env.png)
+  ![image](https://raw.githubusercontent.com/NicolasSaG/CursoIntroPython/main/images/env.png)
 
 - Ejecuta el comando para activar el entorno virtual: `source env/bin/activate`
 
@@ -34,7 +34,7 @@ Crea un entorno virtual mediante `venv`
 
 Ahora ves en tu terminal `(env)`. Eso significa que has activado tu entorno virtual y se ha aislado del resto de tu máquina.
 
-![image](images/activate.png)
+![image](https://raw.githubusercontent.com/NicolasSaG/CursoIntroPython/main/images/activate.png)
 
 ## Instalar una biblioteca
 
@@ -67,7 +67,7 @@ Ahora que estás dentro de tu entorno virtual, puedes instalar una biblioteca y 
   python-dateutil==2.8.2
   six==1.16.0
   ```
-  ![image](images/activate.png)
+  ![image](https://raw.githubusercontent.com/NicolasSaG/CursoIntroPython/main/images/freeze.png)
 
 ### Desactivar un entorno virtual
 
@@ -79,7 +79,7 @@ Ejecuta el comando `deactivate`:
 deactivate
 ```
 
-![image](images/deactivate.png)
+![image](https://raw.githubusercontent.com/NicolasSaG/CursoIntroPython/main/images/deactivate.png)
 Observa cómo cambia el mensaje de tu terminal `(env)` a cómo se veía antes.
 
 ¡Felicidades! Has logrado crear y usar correctamente un entorno virtual.
